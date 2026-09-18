@@ -40,3 +40,4 @@ The following parameters can be changed to simulate different scenarios:
 
 Running default parameters (`N=1000`, `β=0.3`, `γ=0.1`) produces : 
 
+![image alt](https://github.com/Shubh076/SIR-EpidemicModel/blob/48009c8bc9961c6a55b1ac8dbbd995d7e7bdaa40/SIR_Result.png)
